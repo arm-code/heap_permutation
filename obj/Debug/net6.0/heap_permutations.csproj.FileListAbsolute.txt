@@ -1,0 +1,15 @@
+/Users/arm/Documents/programming/dotnet/heap_permutations/bin/Debug/net6.0/heap_permutations
+/Users/arm/Documents/programming/dotnet/heap_permutations/bin/Debug/net6.0/heap_permutations.deps.json
+/Users/arm/Documents/programming/dotnet/heap_permutations/bin/Debug/net6.0/heap_permutations.runtimeconfig.json
+/Users/arm/Documents/programming/dotnet/heap_permutations/bin/Debug/net6.0/heap_permutations.dll
+/Users/arm/Documents/programming/dotnet/heap_permutations/bin/Debug/net6.0/heap_permutations.pdb
+/Users/arm/Documents/programming/dotnet/heap_permutations/obj/Debug/net6.0/heap_permutations.csproj.AssemblyReference.cache
+/Users/arm/Documents/programming/dotnet/heap_permutations/obj/Debug/net6.0/heap_permutations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arm/Documents/programming/dotnet/heap_permutations/obj/Debug/net6.0/heap_permutations.AssemblyInfoInputs.cache
+/Users/arm/Documents/programming/dotnet/heap_permutations/obj/Debug/net6.0/heap_permutations.AssemblyInfo.cs
+/Users/arm/Documents/programming/dotnet/heap_permutations/obj/Debug/net6.0/heap_permutations.csproj.CoreCompileInputs.cache
+/Users/arm/Documents/programming/dotnet/heap_permutations/obj/Debug/net6.0/heap_permutations.dll
+/Users/arm/Documents/programming/dotnet/heap_permutations/obj/Debug/net6.0/refint/heap_permutations.dll
+/Users/arm/Documents/programming/dotnet/heap_permutations/obj/Debug/net6.0/heap_permutations.pdb
+/Users/arm/Documents/programming/dotnet/heap_permutations/obj/Debug/net6.0/heap_permutations.genruntimeconfig.cache
+/Users/arm/Documents/programming/dotnet/heap_permutations/obj/Debug/net6.0/ref/heap_permutations.dll
